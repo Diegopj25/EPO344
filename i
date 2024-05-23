@@ -7,10 +7,14 @@
     <title>Preparatoria Oficial Num 344</title>
 </head>
 <body>
-    <div style="text-align: center;">
-        <div style="background-color: lightgray; padding: 20px; margin: 10px;">
-            <p style="font-family: Arial, sans-serif; font-size: 18px; color: royalblue;">Inicio</p>
-        </div>
+    #h2{
+        text-align: center;
+        background-color: lightgray; 
+        padding: 20px; 
+        margin: 10px;
+            #p{
+            font-family: Arial, sans-serif; 
+            font-size: 18px; color: royalblue;">Inicio</p>
         <div style="background-color: lightgray; padding: 20px; margin: 10px;">
             <p style="font-family: Arial, sans-serif; font-size: 18px; color: darkred;">Docente</p>
         </div>
